@@ -19,5 +19,6 @@ int main() {
         cout << decToBinary(i) <<endl;
         
     }
+    cout <<"Added from Feature"<<endl;
     return 0;
 }
