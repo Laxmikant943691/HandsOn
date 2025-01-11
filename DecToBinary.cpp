@@ -19,5 +19,6 @@ int main() {
         cout << decToBinary(i) <<endl;
         
     }
+    cout <<"From Main"<<endl;
     return 0;
 }
