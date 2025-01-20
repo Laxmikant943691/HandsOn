@@ -3,7 +3,7 @@ using namespace std;
 
 int main() 
     {   
-        cout << "1234 Sqr patter:" <<endl;
+        cout << "1234 Sqr pattern:" <<endl;
         cout << endl;
         for (int i=1;i<5;i++)
             {
@@ -14,7 +14,7 @@ int main()
             } 
         
         cout << endl;
-        cout << "ABCD Sqr patter:" <<endl;
+        cout << "ABCD Sqr pattern:" <<endl;
         cout << endl;
         
         for (int i=1;i<5;i++)
@@ -27,7 +27,7 @@ int main()
               cout << endl;
             }
         cout << endl;
-        cout << "* Reverse trngle patter:" <<endl;
+        cout << "* Reverse trngle pattern:" <<endl;
         cout << endl;
         for (int i=4;i>0;i--)
             { 
@@ -38,7 +38,7 @@ int main()
             }
 
         cout << endl;
-        cout << "* trngle patter:" <<endl;
+        cout << "* trngle pattern:" <<endl;
         cout << endl;
         for (int i=0;i<5;i++)
             { 
@@ -49,7 +49,7 @@ int main()
             }
         
         cout << endl;
-        cout << "Num trngle patter:" <<endl;
+        cout << "Num trngle pattern:" <<endl;
         cout << endl;
         int nm=1;
         for (int i=0;i<5;i++)
@@ -62,7 +62,7 @@ int main()
             }
         
         cout << endl;
-        cout << "* 1,21,321,4321 trngle patter:" <<endl;
+        cout << "* 1,21,321,4321 trngle pattern:" <<endl;
         cout << endl;
         for (int i=0;i<5;i++)
             { 
